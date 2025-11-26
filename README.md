@@ -1,9 +1,19 @@
-## Hi there 👋
+# Hello! I'm Riccir Catimon !
 
-<!--
+I Am Currently A Sophmore Student Taking The **BS Information Technology** Program.
 
--Name : Riccir Catimon
--Education : 2nd Year BSIT Student In New Era University
--Certifications : None Yet
--Skillsets : Basic java knowledge, Intermidiate - HTML and JAVAscript, Basic SQL
-------
+---
+
+## 📚 Education
+
+* **BS Information Technology**
+    * New Era University
+    * [2024]-[Present]
+
+---
+
+## 🏅 Certifications
+
+---
+
+## 🛠️ My Popular Repositories
